@@ -1,6 +1,19 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-# Hey Everyone!
+# Hey Everyone! 👋
+
+<div style="text-align: center;"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnB3bWZidXRycXFxcjQ1cGE1eHVwNnk4djdqOHV5ZmloZ3Rkb2xvaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MDJ9IbxxvDUQM/giphy.gif" /></div>
+
+## My Links 🔗
+<div>
+  <a href="https://www.linkedin.com/in/corbin-platti-358179216/" style="text-decoration:none">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" />
+  </a>
+  <a href="https://www.instagram.com/corbinplatti/" style="text-decoration:none">
+    <img src=https://github.com/user-attachments/assets/f546b8e2-07c8-4571-92a7-f192ac070fb2/ width="50" height="50" >
+  </a>
+</div>
+
 
 ## About me 🧍
 
