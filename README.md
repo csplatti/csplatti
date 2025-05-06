@@ -4,7 +4,7 @@
 
 ```java
 name: "Corbin Platti",
-location(s):
+locations:
   [
     "Vancouver, BC" ,
     "Palo Alto, CA"
