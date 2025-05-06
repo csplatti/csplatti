@@ -3,13 +3,13 @@
 ## About me 🧍
 
 ```java
-name: Corbin Platti,
+name: "Corbin Platti",
 location(s):
   [
     "Vancouver, BC" ,
     "Palo Alto, CA"
   ],
-occupation: student,
+occupation: "student",
 education:
   {
     school: "University of British Columbia",
