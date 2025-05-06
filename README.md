@@ -1,4 +1,39 @@
-## Hi there 👋
+# Hey Everyone!
+
+## About me 🧍
+
+```json
+
+name: Corbin Platti,
+location(s):
+  [
+    "Vancouver, BC" ,
+    "Palo Alto, CA"
+  ],
+occupation: student,
+education:
+  {
+    school: "University of British Columbia",
+    major: "Computer Science & Mathematics",
+    year: 2
+  },
+interests:
+  [
+    "Algorithm Design & Optimization",
+    "Scientific Computing",
+    "High Performance Computing",
+  ]
+hobbies:
+	[
+		"snowboarding",
+		"skateboarding",
+		"health & wellness",
+		"reading",
+		"music"
+	]
+
+
+```
 
 <!--
 **csplatti/csplatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
