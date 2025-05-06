@@ -2,7 +2,7 @@
 
 ## About me 🧍
 
-```json
+```
 
 name: Corbin Platti,
 location(s):
