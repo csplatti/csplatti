@@ -2,7 +2,7 @@
 
 ## About me 🧍
 
-```
+```java
 name: Corbin Platti,
 location(s):
   [
@@ -21,18 +21,19 @@ interests:
     "Algorithm Design & Optimization",
     "Scientific Computing",
     "High Performance Computing",
+    "Quantum Computing"
   ]
 hobbies:
-	[
-		"snowboarding",
-		"skateboarding",
-		"health & wellness",
-		"reading",
-		"music"
-	]
+  [
+    "snowboarding",
+    "skateboarding",
+    "health & wellness",
+    "reading",
+    "music"
+  ]
 
 
-java```
+```
 
 <!--
 **csplatti/csplatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
