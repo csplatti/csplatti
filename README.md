@@ -33,9 +33,10 @@ education:
   },
 interests:
   [
-    "Algorithm Design & Optimization",
+    "Algorithms",
     "Scientific Computing",
     "High Performance Computing",
+    "GPU Programming",
     "Quantum Computing"
   ]
 hobbies:
