@@ -51,19 +51,7 @@ hobbies:
 ```
 ## Tools I've Used 🛠️
 <!--- <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"> !-->
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50px" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="50px" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="50px" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="50px" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" height="50px" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" height="50px" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50px" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="50px" width="50px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-plain.svg" height="50px" width="50px"/>
-
-
-</div>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,cpp,java,vscode,vim,bash,flask,gcp,eclipse,py,git,latex,md,neovim,npm,)](https://skillicons.dev)
 
 
 ## My Github Stats 📊
