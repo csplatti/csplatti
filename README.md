@@ -33,10 +33,9 @@ education:
   },
 interests:
   [
-    "Algorithms",
-    "Scientific Computing",
+    "Performance Engineering",
     "High Performance Computing",
-    "GPU Programming",
+    "Algorithms",
     "Quantum Computing"
   ]
 hobbies:
@@ -61,6 +60,9 @@ hobbies:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" height="50px" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50px" width="50px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="50px" width="50px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tmux/tmux-plain.svg" height="50px" width="50px"/>
+
+
 </div>
 
 
