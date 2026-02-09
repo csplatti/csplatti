@@ -53,7 +53,7 @@ hobbies:
 <!--- <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"> !-->
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,cpp,java,vscode,vim,bash,flask,gcp,eclipse,py,git,latex,md,neovim,npm,)](https://skillicons.dev)
 
-
+<!--
 ## My Github Stats 📊
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -62,6 +62,7 @@ hobbies:
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=csplatti&layout=compact&langs_count=8&card_width=320&theme=onedark" />
 </a>
+-->
 
 <!--
 **csplatti/csplatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
