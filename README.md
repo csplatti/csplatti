@@ -33,18 +33,15 @@ education:
   },
 interests:
   [
-    "Performance Engineering",
-    "High Performance Computing",
+    "ML Systems",
+    "HPC",
     "Algorithms",
-    "Quantum Computing"
   ]
 hobbies:
   [
     "snowboarding",
     "skateboarding",
-    "health & wellness",
-    "reading",
-    "music"
+    "weightlifting"
   ]
 
 
